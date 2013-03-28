@@ -1,5 +1,7 @@
 # Plural
 
+[![Build Status](https://travis-ci.org/stewart/plural.png)](https://travis-ci.org/stewart/plural)
+
 A gem for pluralizing words.
 
 ## Support
