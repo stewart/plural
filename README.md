@@ -2,6 +2,11 @@
 
 A gem for pluralizing words.
 
+## Support
+
+Plural should work with any Ruby using the MRI 1.9 syntax, including MRI 2.0.0,
+JRuby, and Rubinius.
+
 ## Installation
 
 Add this line to your application's Gemfile:
