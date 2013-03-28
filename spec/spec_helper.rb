@@ -1,0 +1,2 @@
+require 'plural'
+require 'rspec'
