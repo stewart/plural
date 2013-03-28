@@ -50,8 +50,11 @@ First, clone the repo and run the test suite:
 ```shell
 git clone git://github.com/stewart/plural.git
 cd plural
-rake spec
+bundle
+rake
 ```
+
+The test cases are taken direct from ActiveSupport.
 
 Then:
 
